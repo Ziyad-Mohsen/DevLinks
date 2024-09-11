@@ -2,7 +2,7 @@
 
 ## Description
 
-This project is built to practice and enhance **JavaScript** skills by working on a simple HTML/CSS/JavaScript-based web application. It helps in understanding core JavaScript concepts like DOM manipulation, event handling, and creating interactive web pages.
+This project is built to practice and enhance **JavaScript** skills by working on a simple HTML/CSS/JavaScript-based web application. It helps in understanding core JavaScript concepts like DOM manipulation, event handling, and creating interactive web pages. You can see a live demo [here](https://ziyad-mohsen.github.io/DevLinks/)
 
 ## Technologies Used
 
