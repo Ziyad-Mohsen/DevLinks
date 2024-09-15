@@ -50,7 +50,7 @@ if (mainColor) {
     }
   });
 } else {
-  colorsLi[0].classList.add("active");
+  colorsLi[4].classList.add("active");
 }
 
 // Switch the main color
